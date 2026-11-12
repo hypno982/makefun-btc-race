@@ -1,0 +1,14 @@
+{
+  "name": "makefun-btc-race-mean-reversion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Long-only mean-reversion bot for the make.fun btc-race-24h competition (agent-fun/bars-replay/v1).",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
